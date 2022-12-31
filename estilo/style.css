@@ -24,7 +24,7 @@ article {
     width: 75vw;
     margin: 5px;
 
-    border: 1px solid #f00;
+    /* border: 1px solid #f00; */
 }
 
 article > h1 {
@@ -39,7 +39,7 @@ article > p {
 nav{
     width: 25vw;
     margin: 5px;
-    border: 1px solid #f00;
+    /* border: 1px solid #f00; */
 }
 
 nav > ul > li {
